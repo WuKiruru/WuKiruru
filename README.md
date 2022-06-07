@@ -1,6 +1,6 @@
 <h2> Hello, I'm Alejandro! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://67.media.tumblr.com/1dd030b239a5dc3534012a00423f3588/tumblr_o52aqu3BLG1ttph68o1_500.gif" width="230">
-<p><em>Studing web programming at <a href="https://www.monlau.com/">Escola Monlau Barcelona </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Intern at <a href="https://www.m-automocion.com/">M-Automoción </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Studing web programming at <a href="https://www.monlau.com/">Escola Monlau Barcelona</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Intern at <a href="https://www.m-automocion.com/">M-Automoción</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: xKiruru](https://img.shields.io/twitter/follow/xKiruru?style=social)](https://twitter.com/xKiruru)
