@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there! 👋🏻
 
-<!--
-**WuKiruru/WuKiruru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alejandro, a student trying to understand basics on programming. I have been working on Tourism market. I would like to become a profesional programmer 🚀. My mainly pasion is play pixel and 2D videogames.
 
-Here are some ideas to get you started:
+### About me 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+public class AboutMe {
+  public static void main(String[] args) {
+    final String ME = "Alejandro 🙋‍♂️";
+    final String[] LANGUAGES = {"Java", "C++" /*a little*/, "SQL", "HTML", "CSS"};
+    final String[] BASICS = {"Bootstrap", "XML", "RSS", "Xquery"};
+    final String[] TOURISM = {"Amadeus"};
+    final String[] INTERESTS = {"Videogames 🐉", "Coding 💻", "China 🏯", "Universe 🌌", "Food 🥮"};
+    final String INFO = "I have studied in Japan, lived in China and now I work in Spain";
+  }
+}
+
+```
