@@ -24,7 +24,8 @@ public class AboutMe {
 
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em>trying to understand basics on programming. I have been working on Tourism market. I would like to become a profesional programmer 🚀. My mainly pasion is play pixel and 2D videogames.
+</em>
 
 ---
 
