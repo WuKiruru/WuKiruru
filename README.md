@@ -18,7 +18,7 @@ public class AboutMe {
     final String[] BASICS = {"Bootstrap", "XML", "RSS", "Xquery"};
     final String[] TOURISM = {"Amadeus"};
     final String[] INTERESTS = {"Videogames 🐉", "Coding 💻", "China 🏯", "Food 🥮"};
-    final String INFO = "I have studied in Japan, lived in China and now I work in Spain";
+    final String INFO = "I have studied in Japan, lived in China.";
   }
 }
 
