@@ -24,7 +24,7 @@ public class AboutMe {
 
 ```
 
-<em>Trying to understand basics on programming. I have been working on Tourism market. I would like to become a profesional programmer 🚀.</em> 
+<em>Trying to understand basics on programming. I have been working on Tourism market. I would like to become a profesional programmer 🚀</em> 
 <em>My mainly pasion is play pixel and 2D videogames.</em>
 
 ---
