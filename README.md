@@ -3,7 +3,7 @@
 <p><em>Actually searching a Job to improve my skills!</br>Studied web programming at <a href="https://www.monlau.com/">Escola Monlau Barcelona</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Did an Internship at <a href="https://www.m-automocion.com/">M-Automoción</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Alejandro](https://img.shields.io/badge/-alejandrogomezvilloldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandrogomezvilloldo/)](https://www.linkedin.com/in/alejandrogomezvilloldo/)
+For more information about me --> [![Linkedin: Alejandro](https://img.shields.io/badge/-alejandrogomezvilloldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandrogomezvilloldo/)](https://www.linkedin.com/in/alejandrogomezvilloldo/)
 <!--[![GitHub Thaiane](https://img.shields.io/github/followers/WuKiruru?label=follow&style=social)](https://github.com/WuKiruru)-->
 
 
