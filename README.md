@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: Alejandro](https://img.shields.io/badge/-alejandrogomezvilloldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandrogomezvilloldo/)](https://www.linkedin.com/in/alejandrogomezvilloldo/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/WuKiruru?label=follow&style=social)](https://github.com/WuKiruru)
+<!--[![GitHub Thaiane](https://img.shields.io/github/followers/WuKiruru?label=follow&style=social)](https://github.com/WuKiruru)-->
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
